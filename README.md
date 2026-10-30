@@ -1,23 +1,11 @@
 > **DISCLAIMER:** Script dan link yang tersedia di repo ini hanya untuk keperluan informasi dan edukasi pribadi. Tidak ada jaminan ketersediaan, akurasi, atau kesesuaian untuk tujuan tertentu. Gunakan dengan risiko sendiri.
 
 ---
-
+semua disalin dari
 # 📺 ApisTECH Personal Project
 
 Koleksi playlist IPTV, EPG guide, dan script otomasi untuk keperluan pribadi.
 
----
-
-## 🔗 Master Playlist & EPG
-
-| Jenis | URL |
-|---|---|
-| **Playlist** | `https://github.com/apistech/project/raw/refs/heads/main/IndihomeTV.m3u` |
-| **Shortlink** | `https://bit.ly/IndihomeTV` |
-
-> Paste URL di atas langsung ke aplikasi IPTV Player (TiviMate, Kodi, OTT Navigator, dll).
-
----
 
 ## 📡 Sumber Playlist & EPG
 
